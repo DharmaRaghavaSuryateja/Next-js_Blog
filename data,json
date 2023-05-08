@@ -1,0 +1,100 @@
+[
+  {
+    "title": "How to Build a Successful Blog",
+    "author": "611a127da08a81213c5a4321",
+    "description": "Learn the strategies and techniques to build a successful blog from scratch.",
+    "date": "2022-01-01T00:00:00.000Z",
+    "image": "https://example.com/blogging.jpg",
+    "category": "612a6b15d2a5a0e0c1c78574"
+  },
+  {
+    "title": "The Best Hiking Trails in the US",
+    "author": "611a127da08a81213c5a4321",
+    "description": "Explore the most beautiful hiking trails in the US and discover stunning views and natural wonders.",
+    "date": "2022-02-01T00:00:00.000Z",
+    "image": "https://example.com/hiking.jpg",
+   
+    "category": "612a6b15d2a5a0e0c1c78575"
+  },
+  {
+    "title": "10 Easy and Delicious Vegetarian Recipes",
+    "author": "611a127da08a81213c5a4322",
+    "description": "Find inspiration for healthy and delicious vegetarian meals with these easy-to-make recipes.",
+    "date": "2022-03-01T00:00:00.000Z",
+    "image": "https://example.com/vegetarian.jpg",
+  
+    "category": "612a6b15d2a5a0e0c1c78576"
+  },
+  {
+    "title": "The Top 5 Coolest Gadgets of 2022",
+    "author": "611a127da08a81213c5a4323",
+    "description": "Discover the most innovative and game-changing gadgets of the year.",
+    "date": "2022-04-01T00:00:00.000Z",
+    "image": "https://example.com/gadgets.jpg",
+  
+    "category": "612a6b15d2a5a0e0c1c78574"
+  },
+  {
+    "title": "The Best Beaches to Visit in Summer",
+    "author": "611a127da08a81213c5a4324",
+    "description": "Escape to the sun and sand with our picks for the best beaches to visit this summer.",
+    "date": "2022-05-01T00:00:00.000Z",
+    "image": "https://example.com/beaches.jpg",
+   
+    "category": "612a6b15d2a5a0e0c1c78577"
+  },
+  {
+    "title": "10 Tips for Better Sleep",
+    "author": "611a127da08a81213c5a4321",
+    "description": "Get a good night's sleep with these simple and effective tips.",
+    "date": "2022-06-01T00:00:00.000Z",
+    "image": "https://example.comsleep.jpg",
+   
+    "category": "612a6b15d2a5a0e0c1c78578"
+  },
+  {
+    "title": "The Benefits of Yoga for Mind and Body",
+    "author": "611a127da08a81213c5a4322",
+    "description": "Discover the many physical and mental benefits of a regular yoga practice.",
+    "date": "2022-07-01T00:00:00.000Z",
+    "image": "https://example.com/yoga.jpg",
+    
+    "category": "612a6b15d2a5a0e0c1c78579"
+  },
+  {
+    "title": "The Most Exciting Video Games of 2022",
+    "author": "611a127da08a81213c5a4323",
+    "description": "Get ready for the most anticipated video game releases of the year and the latest gaming trends.",
+    "date": "2022-08-01T00:00:00.000Z",
+    "image": "https://example.com/gaming.jpg",
+    
+    "category": "612a6b15d2a5a0e0c1c78574"
+  },
+  {
+    "title": "10 Must-Visit Museums Around the World",
+    "author": "611a127da08a81213c5a4324",
+    "description": "Explore the world's most fascinating museums and learn about art, history, science, and culture.",
+    "date": "2022-09-01T00:00:00.000Z",
+    "image": "https://example.com/museums.jpg",
+   
+    "category": "612a6b15d2a5a0e0c1c7857a"
+  },
+  {
+    "title": "The Health Benefits of Green Tea",
+    "author": "611a127da08a81213c5a4322",
+    "description": "Discover the many health benefits of drinking green tea and how it can improve your overall wellbeing.",
+    "date": "2022-10-01T00:00:00.000Z",
+    "image": "https://example.com/green-tea.jpg",
+   
+    "category": "612a6b15d2a5a0e0c1c7857b"
+  },
+  {
+    "title": "The Best Road Trips in the US",
+    "author": "611a127da08a81213c5a4323",
+    "description": "Hit the open road and explore the most scenic and exciting road trips in the US.",
+    "date": "2022-11-01T00:00:00.000Z",
+    "image": "https://example.com/road-trips.jpg",
+  
+    "category": "612a6b15d2a5a0e0c1c78575"
+  }
+]
